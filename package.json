@@ -11,5 +11,8 @@
     "node.js"
   ],
   "author": "Tcybin Andrew",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.3.1"
+  }
 }
