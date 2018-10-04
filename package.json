@@ -1,0 +1,15 @@
+{
+  "name": "mongo-class",
+  "version": "0.0.1",
+  "description": "Mongo class to work with config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongo",
+    "node.js"
+  ],
+  "author": "Tcybin Andrew",
+  "license": "ISC"
+}
