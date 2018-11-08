@@ -15,6 +15,8 @@ class Mongo {
           user: config.user && config.user,
           password: config.password && config.password,
         },
+        reconnectTries: config.reconnectTries || Number.MAX_VALUE,
+        reconnectInterval: config.reconnectInterval || 5000,
       });
   }
 }
