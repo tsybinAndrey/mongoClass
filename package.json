@@ -1,6 +1,6 @@
 {
   "name": "mongo-class",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mongo class to work with config",
   "main": "index.js",
   "scripts": {
